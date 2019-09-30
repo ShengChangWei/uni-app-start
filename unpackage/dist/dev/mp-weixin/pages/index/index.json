@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "tools": "/pages/tools/index",
+    "user": "/pages/user/index",
+    "element": "/pages/element/index"
+  }
+}

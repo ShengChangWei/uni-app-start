@@ -1,0 +1,9 @@
+
+.page {
+	height: 100vh;
+}
+.list-content {
+	margin-top: 45px;
+	padding-bottom: 50px;
+}
+
