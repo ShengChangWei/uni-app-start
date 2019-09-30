@@ -15,7 +15,7 @@
 +-- colorui -- (color-ui 样式)
 +-- common -- (通用的js方法)
 +-- components -- (通用的组件)
-+-- pages -- (页面的页面)
++-- pages -- (主要页面)
 +-- services -- (通用的服务)
 |   +-- auth.service.js -- (主要封装了一些保存用户的token方法)
 |   +-- config.service.js -- (存放全局通用的变量)
